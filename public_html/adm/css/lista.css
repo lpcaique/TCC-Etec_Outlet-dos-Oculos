@@ -1,0 +1,15 @@
+.lista{
+    background-color: #F8F9FA;
+    justify-content: space-around;
+    flex-direction: row;
+    display: flex;
+    border-bottom: #ccc solid 1px;
+    padding: 5px;
+}
+h1{
+    margin-bottom: 30px;
+}
+.caixa{
+    margin: 60px;
+
+}

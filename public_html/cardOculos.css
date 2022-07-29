@@ -1,0 +1,23 @@
+.txtCard{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    align-items: center;
+    display: flex;
+    border: none;
+    cursor: pointer;
+    width: 100px;
+}
+.cxCard{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    padding: 20px;
+}
+.blocoCard{
+    margin-right: 10px;
+    border-radius: 10px;
+}
